@@ -12,16 +12,9 @@
   background-color: #bc865c;
 }
 
-.page .content ul:first-child {
-  margin-top: 60px;
-}
-
-.page .content ul:last-child {
-  margin-bottom: 60px;
-}
-
 .page .content ul li {
   margin: 10px 0;
+  text-transform: uppercase;
 }
 
 .page .title {
