@@ -1,1 +1,6 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.page {
+  min-height: 100vh;
+  background-color: #bc865c;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */

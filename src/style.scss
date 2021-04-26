@@ -1,2 +1,8 @@
 $primary: #bc865c;
 $secondary: #fff;
+
+.page {
+  min-height: 100vh;
+  background-color: $primary;
+  color: $secondary;
+}
