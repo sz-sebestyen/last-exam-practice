@@ -5,4 +5,17 @@ $secondary: #fff;
   min-height: 100vh;
   background-color: $primary;
   color: $secondary;
+
+  .menu {
+    background-color: $secondary;
+
+    &-line {
+      background-color: $primary;
+    }
+  }
+
+  .title {
+    background-color: $secondary;
+    color: $primary;
+  }
 }

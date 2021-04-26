@@ -3,4 +3,17 @@
   background-color: #bc865c;
   color: #fff;
 }
+
+.page .menu {
+  background-color: #fff;
+}
+
+.page .menu-line {
+  background-color: #bc865c;
+}
+
+.page .title {
+  background-color: #fff;
+  color: #bc865c;
+}
 /*# sourceMappingURL=style.css.map */
