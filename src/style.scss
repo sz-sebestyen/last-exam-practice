@@ -14,6 +14,20 @@ $secondary: #fff;
     }
   }
 
+  .content ul {
+    &:first-child {
+      margin-top: 60px;
+    }
+
+    &:last-child {
+      margin-bottom: 60px;
+    }
+
+    li {
+      margin: 10px 0;
+    }
+  }
+
   .title {
     background-color: $secondary;
     color: $primary;
